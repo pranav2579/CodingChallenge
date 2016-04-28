@@ -1,3 +1,5 @@
+package Hackerrank.algorithms;
+
 public class statictest{
 		   
 		   public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Hackerrank.algorithms;
 
 public class Collections {
 

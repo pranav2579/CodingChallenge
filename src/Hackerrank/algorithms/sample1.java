@@ -1,4 +1,4 @@
-package Hackerrank;
+package Hackerrank.algorithms;
 
 /**
  * Created by Pranav on 28/04/16.

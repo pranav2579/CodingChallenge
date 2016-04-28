@@ -1,3 +1,5 @@
+package Hackerrank.algorithms;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
@@ -12,7 +14,7 @@ public class angry_professor {
 		
 		int cases, total, present;
 		Scanner S = new Scanner(System.in);
-		System.out.println("Enter number of test cases");
+		System.out.println("Enter number of Hackerrank.algorithms.test cases");
 		cases = S.nextInt();
 		if(cases >=1 && cases <=10){
 			

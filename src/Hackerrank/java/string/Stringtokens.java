@@ -1,4 +1,6 @@
-    import java.io.*;
+package Hackerrank.java.string;
+
+import java.io.*;
     import java.util.*;
 
 

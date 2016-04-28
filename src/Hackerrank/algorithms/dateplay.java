@@ -1,3 +1,5 @@
+package Hackerrank.algorithms;
+
 import java.util.*;
   
 public class dateplay {

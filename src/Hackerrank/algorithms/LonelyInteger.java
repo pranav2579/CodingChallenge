@@ -1,6 +1,6 @@
+package Hackerrank.algorithms;
 
-	
-	import java.io.*;
+import java.io.*;
 	import java.util.*;
 	import java.text.*;
 	import java.math.*;

@@ -1,4 +1,4 @@
-
+package Hackerrank.algorithms;
 
 public class Tests {
 	

@@ -1,4 +1,6 @@
- class abcde {
+package Hackerrank.algorithms;
+
+class abcde {
     public static void main(String[] args) {
 
         byte month = 65;

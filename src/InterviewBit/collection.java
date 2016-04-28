@@ -1,4 +1,4 @@
-/**
+package InterviewBit; /**
  * Created by Pranav on 27/12/15.
  */
 import java.util.*;

@@ -1,4 +1,4 @@
-package Hackerrank;
+package Hackerrank.algorithms;
 
 public class initialization {
 	
