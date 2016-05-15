@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Solution {
+ class Solution1 {
     public static String findDigitsInBinary(int a) {
         if (a == 0)
             return("0");
