@@ -11,8 +11,8 @@ public class RepeatAndMissing2 {
         long normalSum = 0, currentSum = 0, difference = 0;
 
         for (int i = 1; i <= a.size(); i++) {
-            normalSum += i;
-            currentSum += a.get(i - 1);
+            normalSum += (long)i;
+            currentSum += (long)a.get(i - 1);
         }
 
         difference = normalSum - currentSum;
@@ -20,8 +20,8 @@ public class RepeatAndMissing2 {
         long normalSqSum = 0, currnetSqSum = 0, sqDifference = 0;
 
         for (int i = 1; i <= a.size(); i++) {
-            normalSqSum += i * i;
-            currnetSqSum += a.get(i - 1) * a.get(i - 1);
+            normalSqSum += (long)i * (long)i;
+            currnetSqSum += (long)a.get(i - 1) * (long)a.get(i - 1);
         }
 
         sqDifference = normalSqSum - currnetSqSum;
