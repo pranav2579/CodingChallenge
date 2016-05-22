@@ -36,7 +36,7 @@ public class BubbleSort {
         System.out.println("First Element: " + a[0]);
         System.out.println("Last Element: " + a[n-1]);
 
-        //printing the correct data
+        //printing the correct data output
 
 
 
