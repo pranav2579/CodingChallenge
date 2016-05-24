@@ -17,6 +17,7 @@ public class Generics {
 
         if(Solution.class.getDeclaredMethods().length > 2){
             System.out.println("You should only have 1 method named printArray.");
+
         }
     }
 }
